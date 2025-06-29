@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-📊 Sales & Customer Analysis Queries
+📊 Change Over Time Analysis
 ===============================================================================
 Purpose:
     - Analyze monthly sales trends using different date functions:
